@@ -80,7 +80,7 @@ const config = {
       template: require("html-webpack-template"),
       // inject: false,
       appMountId: "app",
-      title: 'שו"ב עמדות שירות',
+      title: 'react-app-template',
     }),
     CSSExtract,
     new webpack.DefinePlugin({
